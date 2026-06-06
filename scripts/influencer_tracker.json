@@ -1,0 +1,17 @@
+{
+  "sent": [],
+  "sources": ["官方公告/采访", "权威媒体", "多源交叉验证"],
+  "persons": {
+    "musk": "Elon Musk",
+    "huang": "Jensen Huang",
+    "naval": "Naval Ravikant",
+    "sun": "孙宇晨",
+    "altman": "Sam Altman",
+    "hassabis": "Demis Hassabis",
+    "ng": "Andrew Ng",
+    "hinton": "Geoffrey Hinton",
+    "nadella": "Satya Nadella",
+    "liu": "刘小排（国内AI编程）",
+    "duan": "段永平（OPPO/VIVO/步步高创始人，价值投资者）"
+  }
+}
